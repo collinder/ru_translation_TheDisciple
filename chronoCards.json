@@ -105,7 +105,7 @@
   },
   "Keepsakes": {
     "NAME": "Сувенирчики",
-    "DESCRIPTION": "Наносит !D! урона !M! раз. NL В этом ходу вы Оставляете карту за каждый урон по ОЗ врага."
+    "DESCRIPTION": "Наносит !D! урона !M! раз. NL Вы Оставляете карту за каждый урон по ОЗ врага этой картой."
   },
   "Sow": {
     "NAME": "Посеять",
@@ -259,7 +259,7 @@
   },
   "WatchCommand": {
     "NAME": "Команда наблюдать",
-    "DESCRIPTION": "Защиты не исчезнет в начале ваших след. !M! ходов."
+    "DESCRIPTION": "Защита не исчезнет в начале ваших след. !M! ходов."
   },
   "Flashback": {
     "NAME": "Воспоминание",
@@ -654,12 +654,12 @@
   "OldSpareTime": {
     "NAME": "Spare Time",
     "DESCRIPTION": "For each subsequent [E] used this turn, добавьте Страж в руку.",
-    "UPGRADE_DESCRIPTION": "For each subsequent [E] used this turn, добавьте улучшенный Охрана в руку."
+    "UPGRADE_DESCRIPTION": "For each subsequent [E] used this turn, добавьте улучшенную Охрана в руку."
   },
   "Echoward": {
     "NAME": "Эхохрана",
     "DESCRIPTION": "Все следующие карты в этом ходу разыгрывают Охрана.",
-    "UPGRADE_DESCRIPTION": "Все следующие карты в этом ходу разыгрывают Охрана+."
+    "UPGRADE_DESCRIPTION": "Все следующие карты в этом ходу разыгрывают улучшенную Охрана."
   },
   "PrimeTime": {
     "NAME": "Прайм-тайм",
@@ -716,7 +716,7 @@
   },
   "SpringForward": {
     "NAME": "Прыгуть вперед",
-    "DESCRIPTION": "Начальная. NL Возьмите !M! cards. NL Сменяется в Отступить.",
+    "DESCRIPTION": "Начальная. NL Возьмите !M! карты. NL Сменяется в Отступить.",
     "UPGRADE_DESCRIPTION": "Начальная. NL Возьмите 2 карты. NL Оставьте 1 карту. NL Сменяется в Отступить+."
   },
   "Fallback": {
