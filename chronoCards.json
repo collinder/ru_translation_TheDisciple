@@ -26,7 +26,7 @@
   },
   "Accruing": {
     "NAME": "Накопление",
-    "DESCRIPTION": "Наносит !D! урона TheDisciple:Фибоначчи .",
+    "DESCRIPTION": "Наносит !D! урона Фибоначчи .",
     "UPGRADE_DESCRIPTION": "Наносит !D! урона Фибоначчи. NL Оставляется."
   },
   "Backlash": {
@@ -643,7 +643,7 @@
     "UPGRADE_DESCRIPTION": " NL Оставляется.",
     "EXTENDED_DESCRIPTION": [
       "Имитирует",
-      ".",
+      "."
     ]
   },
   "OldClockandLoad": {
