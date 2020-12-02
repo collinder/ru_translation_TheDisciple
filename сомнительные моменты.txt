@@ -1,0 +1,22 @@
+Часть сомнительных переводов.
+Backlash 
+Beats per minute 
+Bite of time
+Clock and load
+Fast forward
+Old time
+Paper Twirtle
+Crunch time
+Pattern shift
+Prime Time
+Recurrance - Description
+Sense Knock
+Stagnate
+ticked off
+time consuming 
+waiting room - Description
+
+
+Crafted guard - удален [#EFC851]
+На 646 строке, после последней записи в описании карты Resonant call была запятая, ломающая парсинг JSON всем программам. Запятая удалена, мод работает.
+Удалены все комментарии автора.
